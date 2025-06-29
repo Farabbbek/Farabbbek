@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al-Farabi</h1>
-<h3 align="center">
   🎓 Student at Astana IT University, majoring in CyberSecurity 
   🔐 Passionate about Cybersecurity, Backend, and Frontend development 
   🚀 Currently learning Golang, building web apps, and exploring secure development practices 
-  🧠 Active participant in CTFs and collaborative projects</h3>
+  🧠 Active participant in CTFs and collaborative projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Farabbbek](https://github.com/Farabbbek)
 
