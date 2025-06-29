@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ftusup@bk.ru**
 
-- 🌍 Beyond coding **🌍 Beyond coding, I enjoy playing football and training with heavy weights, which help me stay motivated and mentally strong.**
+- 🌍 Beyond coding **I enjoy playing football and training with heavy weights, which help me stay motivated and mentally strong.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
